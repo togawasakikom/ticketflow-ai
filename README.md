@@ -1,2 +1,2 @@
 # ticketflow-ai
-Work order processing system. It can receive customer support tickets from users via API, use large language models to automatically perform classification, priority assessment, and key information extraction, and push the structured data to downstream systems
+智能工单处理系统。通过API接收来自用户的客户支持工单，利用大语言模型自动完成分类、优先级判断、关键信息提取，并将结构化数据推送到下游系统。。。
